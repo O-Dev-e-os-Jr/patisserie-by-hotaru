@@ -1,0 +1,9 @@
+body{
+    background-color: blanchedalmond;
+}
+
+.header-option{
+    text-align: center;
+    display:flex;
+    
+}
