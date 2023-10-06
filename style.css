@@ -2,8 +2,22 @@ body{
     background-color: blanchedalmond;
 }
 
-.header-option{
+.header-options{
     text-align: center;
     display:flex;
+    margin: 20px 50px;
+    flex-direction: row;
+    justify-content: space-between;
     
 }
+
+.menu{
+    display: flex;
+    gap: 15px;
+    
+} 
+  
+a{
+    color: black;
+    text-decoration: none;
+}  
